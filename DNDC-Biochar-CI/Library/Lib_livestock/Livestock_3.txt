@@ -1,0 +1,17 @@
+3	AnimalCode
+Pig	AnimalType
+3.2	Default_C_intake_kgC/head/day
+0.0000	Milk_C_fraction
+0.1541	Meat_C_fraction
+0.3288	Urine_C_fraction
+0.0356	Dung_C_fraction
+0.0000	Enteric_CH4_C_fraction
+	
+0.4806	Respiration_C_fraction
+0.4510	Default_N_intake_kgN/head/day
+0.0000	Milk_N_fraction
+0.2993	Meat_N_fraction
+0.5499	Urine_N_fraction
+0.1499	Dung_N_fraction
+	
+0.0005	Enteric_N2O_N_fraction

@@ -1,0 +1,17 @@
+2	AnimalCode
+BeefCow	AnimalType
+4.008	Default_C_intake_kgC/head/day
+0.0000	Milk_C_fraction
+0.0549	Meat_C_fraction
+0.0217	Urine_C_fraction
+0.4421	Dung_C_fraction
+0.0170	Enteric_CH4_C_fraction
+	
+0.4626	Respiration_C_fraction
+0.2004	Default_N_intake_kgN/head/day
+0.0000	Milk_N_fraction
+0.2994	Meat_N_fraction
+0.3493	Urine_N_fraction
+0.3493	Dung_N_fraction
+	
+0.0005	Enteric_N2O_N_fraction
