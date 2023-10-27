@@ -1,0 +1,17 @@
+5	AnimalCode
+Horse	AnimalType
+4.008	Default_C_intake_kgC/head/day
+0	Milk_C_fraction
+0.05489022	Meat_C_fraction
+0.021706587	Urine_C_fraction
+0.442115768	Dung_C_fraction
+0.017040918	Enteric_CH4_C_fraction
+	
+0.46257485	Respiration_C_fraction
+0.2004	Default_N_intake_kgN/head/day
+0	Milk_N_fraction
+0.299401198	Meat_N_fraction
+0.349301397	Urine_N_fraction
+0.349301397	Dung_N_fraction
+	
+0.000499002	Enteric_N2O_N_fraction

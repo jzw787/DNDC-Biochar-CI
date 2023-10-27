@@ -1,0 +1,17 @@
+4	AnimalCode
+Sheep	AnimalType
+0.5	Default_C_intake_kgC/head/day
+0.0000	Milk_C_fraction
+0.0350	Meat_C_fraction
+0.0626	Urine_C_fraction
+0.4220	Dung_C_fraction
+0.0320	Enteric_CH4_C_fraction
+	
+0.4480	Respiration_C_fraction
+0.0160	Default_N_intake_kgN/head/day
+0.0000	Milk_N_fraction
+0.3000	Meat_N_fraction
+0.4894	Urine_N_fraction
+0.2100	Dung_N_fraction
+	
+0.0000	Enteric_N2O_N_fraction

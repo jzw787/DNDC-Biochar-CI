@@ -1,0 +1,17 @@
+Livestock parameters															
+ID	AnimalType	IntakeRate	Milk_C_fraction	Meat_C_fraction	Urine_C_fraction	Dung_C_fraction	Enteric_CH4_fraction	Respiration_C_fraction	IntakeRate	Milk_N_fraction	Meat_N_fraction	Urine_N_fraction	Dung_N_fraction	Enteric_N2O_fraction	
+1	DairyCow	6.68	0.0575	0.0091	0.0219	0.2798	0.0329	0.5988	0.334	0.25	0.05	0.3497	0.3497	0.0006	
+2	BeefCow	4.008	0	0.0549	0.0217	0.4421	0.017	0.4626	0.2004	0	0.2994	0.3493	0.3493	0.0005	
+3	Pig	3.2	0	0.1541	0.3288	0.0356	0	0.4806	0.451	0	0.2993	0.5499	0.1499	0.0005	
+4	Sheep	0.5	0	0.035	0.0626	0.422	0.032	0.448	0.016	0	0.3	0.4894	0.21	0	
+5	Horse	4.008	0	0.05489022	0.021706587	0.442115768	0.017040918	0.46257485	0.2004	0	0.299401198	0.349301397	0.349301397	0.0005	
+															
+Unit	None	kgC/head/day	Fraction	Fraction	Fraction	Fraction	Fraction	Fraction	kgN/head/day	Fraction	Fraction	Fraction	Fraction	Fraction	
+															
+															
+															
+															
+															
+															
+															
+															

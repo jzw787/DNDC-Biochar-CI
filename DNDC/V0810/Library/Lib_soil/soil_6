@@ -1,0 +1,10 @@
+Sa_cl_loam		texture
+0.27		clay_portion
+0.421		porosity
+0.0378		satu_conductivity
+0.52		field_capasity
+0.24		wilting_point
+2000		specific_heat
+8.63		water_tension_cm
+7.12		beta
+0.42        tetas
